@@ -19,7 +19,7 @@ I like understanding how things work, from small chips to big systems. I build p
 
 ---
 
-### 🗓️ 2025 Contributions
+### 🗓️ 2025 Contributions by Month
 ![Ashwin's 2025](https://github-readme-stats.vercel.app/api/mailchart?username=Ashwin04912&theme=dark&year=2025)
 
 ![snake svg](https://github-readme-activity-graph.vercel.app/graph?username=Ashwin04912&theme=dracula&bg_color=0d1117&hide_border=true)
