@@ -1,16 +1,20 @@
 # Hello there 👋
 
-**Software Developer | Systems Builder | Backend Engineer**
+**Software Developer | Systems Builder**
 
-* 🚀 Building with: **Laravel**, **Django**, **Flutter**
-* 📡 Exploring: **RF Systems**, **SDR**, **RTOS**
-* ⚙️ Daily drivers: `.php`, `.py`, `.dart`, `.c`, `.sh`
+> "I don't just use systems; I break them down to understand how they breathe."
+
+I like understanding how things work, from small chips to big systems. I build projects to learn, and keep improving how I build.
+
+* 🚀 Building with: **Laravel**, **Flutter**
+* ⚙️ Daily drivers: `.php`, `.py`, `.dart`, `.sh`
 * 🔗 [LinkedIn](https://linkedin.com/in/ashwin-8a8070241)
 
 ---
 
-```bash
-root@github:~$ ./profile_stats.sh
-> User: Ashwin04912
-> Status: Building real-world systems
-> Current_Focus: ONDC & RF Communication
+### 📡 The RF Lab
+* **VU37SA:** Active in amateur radio, exploring the world of signals and antennas.
+* **Deep Dives:** Currently obsessed with **SDR** (Software Defined Radio), **RTOS**, and **RF Systems**.
+* **Founder @ ORION GECW Space Club:** Leading efforts in space tech and satellite communication.
+
+---
