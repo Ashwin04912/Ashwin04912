@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there 👋[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&width=435&lines=Software+Developer;Systems+Builder;Ham+Radio+Enthusiast;Founder+@+ORION+Space+Club)](https://git.io/typing-svg)
 
 **Software Developer | Systems Builder**
 
