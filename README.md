@@ -18,7 +18,7 @@ I like understanding how things work, from small chips to big systems. I build p
 * **Founder @ ORION GECW Space Club:** Leading efforts in space tech and satellite communication.
 
 ---
-### 🗓️ 2025 Archive
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwin04912&show_icons=true&theme=dark&include_all_commits=true&year=2025" alt="My 2025 Stats" />
+### 🗓️ 2025 Contribution Graph
+![Ashwin's 2025 Activity](https://github-readme-activity-graph.vercel.app/graph?username=Ashwin04912&theme=dracula&bg_color=0d1117&hide_border=true&area=true)
 
 ![snake svg](https://github-readme-activity-graph.vercel.app/graph?username=Ashwin04912&theme=dracula&bg_color=0d1117&hide_border=true)
