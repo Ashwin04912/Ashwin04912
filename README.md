@@ -1,14 +1,21 @@
 # Hello there 👋
 
-**[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&width=435&lines=Software+Developer;Systems+Builder;Ham+Radio+Enthusiast;Founder+@+ORION+Space+Club)](https://git.io/typing-svg)**
+*[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&width=435&lines=Flutter+Developer;Laravel+Developer)](https://git.io/typing-svg)*
+
 
 > "I don't just use systems; I break them down to understand how they breathe."
 
-I bridge the gap between low-level hardware and high-level backends. Whether it's ONDC flows or RF communication, I'm obsessed with the architecture that makes systems work.
+I like understanding how things work, from small chips to big systems. I build projects to learn, and keep improving how I build.
 
-* 🚀 Building with: **Laravel**, **Flutter**, **Django**
-* ⚙️ Daily drivers: `.php`, `.py`, `.dart`, `.c`, `.sh`
+* 🚀 Building with: **Laravel**, **Flutter**
+* ⚙️ Daily drivers: `.php`, `.py`, `.dart`, `.sh`
 * 🔗 [LinkedIn](https://linkedin.com/in/ashwin-8a8070241)
+
+---
+
+### 🛰️ Currently Exploring & Building
+* **🔗 ONDC Architecture:** Architecting **async-first** backends focused on event-driven callbacks and strict **idempotency** logic for seamless commerce flows.
+* **🏥 HealthTech & HL7:** Engineering real-time **data transformation pipelines** to bridge the gap in healthcare interoperability and HL7 standards.
 
 ---
 
@@ -19,12 +26,7 @@ I bridge the gap between low-level hardware and high-level backends. Whether it'
 
 ---
 
-### 🧪 Featured Systems
-* **🔗 ONDC Backend:** Designed async callback flows and idempotent API structures.
-* **🏥 HL7 Engine:** Real-time healthcare data transformation pipeline.
-* **🌱 Growa AI:** IoT-integrated plant disease detection system.
 
----
 
 ### 🗓️ 2025 Contribution Archive
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashwin04912&theme=dracula" width="100%"/>
