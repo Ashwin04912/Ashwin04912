@@ -1,6 +1,6 @@
-# Hello there 👋[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&width=435&lines=Software+Developer;Systems+Builder;Ham+Radio+Enthusiast;Founder+@+ORION+Space+Club)](https://git.io/typing-svg)
+# Hello there 👋
 
-**Software Developer | Systems Builder**
+**[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&width=435&lines=Flutter+Developer;Laravel+Developer)](https://git.io/typing-svg)**
 
 > "I don't just use systems; I break them down to understand how they breathe."
 
