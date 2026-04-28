@@ -18,3 +18,5 @@ I like understanding how things work, from small chips to big systems. I build p
 * **Founder @ ORION GECW Space Club:** Leading efforts in space tech and satellite communication.
 
 ---
+
+![snake svg](https://github-readme-activity-graph.vercel.app/graph?username=Ashwin04912&theme=dracula&bg_color=0d1117&hide_border=true)
